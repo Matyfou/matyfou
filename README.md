@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently trying learning **c++**
 
-- 👨‍💻 I like to create games on [Unity](Unity)
+- 👨‍💻 I like to create games on **Unity**
 
 - 📫 How to reach me **Discord : Matyfou**
 
-- 👨‍💻 I like create little programs on [Python](Python)
+- 👨‍💻 I like create little programs on **Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
